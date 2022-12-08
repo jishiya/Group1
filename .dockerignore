@@ -1,4 +1,8 @@
-node_modules
+node_modules/
+EKS/
 npm-debug.log
 Dockerfile
 .dockerignore
+.gitignore
+dockerfile_new
+README.md

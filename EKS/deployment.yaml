@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: to-do-app-container
-          image: jishiya/to-do-app-image
+          image: jishiya/to-do-app-image-new
           ports:
             - containerPort: 3000
